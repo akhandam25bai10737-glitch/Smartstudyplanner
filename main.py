@@ -1,7 +1,10 @@
+
 print("Welcome to Smart Study Planner")
 
 n = int(input("Enter number of subjects: "))
 
+for i in range(n):
+    name = input(f"Enter subject {i+1} name: ")
  
 
 
