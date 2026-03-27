@@ -19,7 +19,13 @@ for i in range(n):
 
     subjects.append(subject)
 
-print(subjects)
+# Sort subjects by priority (highest first)
+subjects.sort(key=lambda x: x["priority"], reverse=True)
+
+print("\n Your Study Plan:\n")
+
+for i, sub in enumerate(subjects, 1):
+    print(f"{i}. {sub['name']} → Priority: {sub['priority']}")
 
 
 
