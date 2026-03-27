@@ -15,11 +15,11 @@ for i in range(n):
         "days_left": days_left
     }
 
+    subject["priority"] = difficulty * 2 + (10 - days_left)
+
     subjects.append(subject)
 
 print(subjects)
-
-
 
 
 
