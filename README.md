@@ -1,4 +1,4 @@
-# Smart Study Planner (AI-Based System)
+#SMART STUDY PLANNER (AI BASED)
 
 #Project Overview
 
@@ -36,8 +36,7 @@ Although this project currently uses rule-based logic, it can be extended into a
 
 This makes the project a foundational step toward real AI/ML applications.
 
-
-# How to Run the Project
+"HOW TO RUN THE PROJECT"
 
 1. Open Terminal
 2. Navigate to the project folder
