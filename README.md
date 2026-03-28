@@ -1,13 +1,13 @@
-#SMART STUDY PLANNER (AI BASED)
+SMART STUDY PLANNER (AI BASED)
 
-#Project Overview
+PROJECT OVERVIEW
 
 The Smart Study Planner is an AI-inspired application designed to help students plan their studies efficiently. It analyzes subjects based on difficulty and exam urgency, and generates an optimized study order.
 
 This project demonstrates a rule-based Artificial Intelligence system that mimics human decision-making.
 
 
-##Key Features
+KEY FEATURES
 
 * Accepts multiple subjects as input
 * Evaluates difficulty and time constraints
@@ -15,7 +15,7 @@ This project demonstrates a rule-based Artificial Intelligence system that mimic
 * Sorts and displays an optimized study plan
 * Provides structured and user-friendly output
 
-#AI Concept Used
+AI CONCEPT USED
 
 This project is based on a rule-based AI system, where decisions are made using predefined logic instead of learning from data.
 
@@ -26,7 +26,7 @@ Priority = (difficulty × 2) + (10 - days_left)
 This approach reflects how AI systems can make decisions based on rules and conditions.
 
 
-#Relation to Machine Learning (Future Scope)
+Relation to Machine Learning (Future Scope)
 
 Although this project currently uses rule-based logic, it can be extended into a Machine Learning system by:
 
@@ -43,13 +43,13 @@ This makes the project a foundational step toward real AI/ML applications.
 3. Run the program:
    python3 main.py
 
-#Technologies Used
+TECHNOLOGIES USED
 
 * Python
 * Git & GitHub
 
 
-#Learning Outcomes
+LEARNING OUTCOMES
 
 * Understanding of Artificial Intelligence fundamentals
 * Implementation of rule-based decision systems
